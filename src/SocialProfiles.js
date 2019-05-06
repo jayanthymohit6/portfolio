@@ -4,7 +4,7 @@ import SOCIAL_PROFILES from './data/socialProfiles';
 
 class SocialProfile extends Component {
     render() {
-        const {link,image} =this.props .socialProfile;
+        const {link,image} =this.props.socialProfile;
 
         return (
             <span>
